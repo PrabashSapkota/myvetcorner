@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Identifying Early Signs of Parvovirus",
+    "description": "Parvovirus is a highly contagious virus affecting dogs. Learn to spot the critical symptoms like lethargy and vomiting to seek immediate emergency care.",
+    "image": "/assets/images/dogs/parvo-symptoms.jpg",
+    "dateOfPublished": "2023-10-10",
+    "category": "Dogs"
+  },
+  {
+    "title": "Chronic Kidney Disease in Senior Cats",
+    "description": "As cats age, kidney function often declines. We discuss diet changes, hydration strategies, and medication to manage CKD effectively.",
+    "image": "https://vet-clinic-example.com/media/cats/senior-cat-care.png",
+    "dateOfPublished": "2023-11-05",
+    "category": "Cats"
+  },
+  {
+    "title": "Biosecurity Basics for Backyard Poultry",
+    "description": "Protect your flock from Avian Influenza and other infectious diseases by implementing these five essential biosecurity measures on your farm.",
+    "image": "/content/poultry/chicken-coop-biosecurity.jpg",
+    "dateOfPublished": "2023-09-22",
+    "category": "Poultry"
+  },
+  {
+    "title": "Tick Prevention: More Than Just Lime Disease",
+    "description": "Ticks carry various pathogens including Ehrlichiosis and Anaplasmosis. Discover the best preventative schedules for outdoor dogs and cats.",
+    "image": "/assets/images/parasites/tick-prevention.webp",
+    "dateOfPublished": "2023-08-15",
+    "category": "General Health"
+  },
+  {
+    "title": "Nutritional Requirements for Laying Hens",
+    "description": "Egg production requires high calcium and protein levels. Here is a guide to formulating the perfect feed mix for maximum egg yield.",
+    "image": "https://vet-clinic-example.com/media/poultry/feed-mix.jpg",
+    "dateOfPublished": "2023-12-01",
+    "category": "Poultry"
+  },
+  {
+    "title": "Dental Hygiene: The Silent Killer in Pets",
+    "description": "Periodontal disease can lead to heart and liver issues. Learn how to brush your pet's teeth and when to schedule a professional cleaning.",
+    "image": "/images/surgery/dental-cleaning.jpg",
+    "dateOfPublished": "2023-11-20",
+    "category": "Dogs"
+  }
+]
