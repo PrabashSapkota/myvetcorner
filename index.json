@@ -1,5 +1,14 @@
 [
   {
+    "id": "dogs-and-cats-",
+    "title": "Dogs and Cats ",
+    "category": "Cats",
+    "dateOfPublished": "2025-12-05",
+    "image": "https://i0.wp.com/farm9.staticflickr.com/8427/7863750906_5420b9e4c3.jpg",
+    "description": "Hello , this is the admin panal for the website ",
+    "content": "<h1><span class=\"ql-size-huge\">Hello this is the title </span></h1><p>now this is the description for the heading </p><ul><li>thu s</li><li>is </li><li>the</li><li>heading</li><li>for</li><li>the</li><li>description </li></ul><p>wow what a nice person is he </p>"
+  },
+  {
     "id": "dental-hygiene-pets",
     "title": "Dental Hygiene: The Silent Killer in Pets",
     "description": "Periodontal disease can lead to heart and liver issues. Learn how to brush your pet's teeth and when to schedule a professional cleaning.",
