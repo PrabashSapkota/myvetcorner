@@ -1,12 +1,21 @@
 [
   {
-    "id": "identifying-early-signs-parvovirus",
-    "title": "Identifying Early Signs of Parvovirus",
-    "description": "Parvovirus is a highly contagious virus affecting dogs. Learn to spot the critical symptoms like lethargy and vomiting to seek immediate emergency care.",
-    "image": "https://i0.wp.com/petyaari.com/wp-content/uploads/2025/06/Canine-Parvo-virus-1024x724.jpg",
-    "dateOfPublished": "2023-10-10",
+    "id": "laying-hens-nutrition",
+    "title": "Nutritional Requirements for Laying Hens",
+    "description": "Egg production requires high calcium and protein levels. Here is a guide to formulating the perfect feed mix for maximum egg yield.",
+    "image": "https://www.stockfeed.co.nz/wp-content/uploads/2023/02/9-scaled.jpg",
+    "dateOfPublished": "2023-12-01",
+    "category": "Poultry",
+    "content": "<h3>Fueling the Egg Factory</h3><p>A laying hen puts a tremendous amount of energy into producing an egg. An egg is rich in protein and packed in a calcium shell. If her diet is lacking, she will stop laying or, worse, her body will pull calcium from her own bones.</p><h3>Key Nutrients</h3><ul><li><strong>Calcium (3.5 - 4.5%):</strong> Essential for shell strength. Provide crushed oyster shells as a free-choice supplement alongside their feed.</li><li><strong>Protein (16 - 18%):</strong> Necessary for the egg white and general health. Use a dedicated 'Layer Feed' pellet or crumble.</li><li><strong>Fresh Water:</strong> A hen's body is over 50% water, and an egg is largely water. A lack of water for just a few hours can stop egg production for days.</li></ul><h3>Treats in Moderation</h3><p>Kitchen scraps and scratch grains are fun, but they dilute the nutrition of the main feed. Treats should make up no more than 10% of their daily intake.</p>"
+  },
+  {
+    "id": "dental-hygiene-pets",
+    "title": "Dental Hygiene: The Silent Killer in Pets",
+    "description": "Periodontal disease can lead to heart and liver issues. Learn how to brush your pet's teeth and when to schedule a professional cleaning.",
+    "image": "https://i0.wp.com/farm9.staticflickr.com/8427/7863750906_5420b9e4c3.jpg",
+    "dateOfPublished": "2023-11-20",
     "category": "Dogs",
-    "content": "<h3>The Danger of Parvovirus</h3><p>Canine parvovirus (CPV) is one of the most serious viruses that can affect dogs, particularly puppies and unvaccinated adults. It attacks the gastrointestinal tract and immune system, leading to severe dehydration and potential fatality if not treated immediately.</p><h3>Critical Symptoms to Watch For</h3><ul><li><strong>Severe Vomiting:</strong> Often frothy or yellow bile.</li><li><strong>Bloody Diarrhea:</strong> This often has a very distinct, foul odor.</li><li><strong>Lethargy:</strong> Your dog may refuse to play, eat, or even stand up.</li><li><strong>Loss of Appetite:</strong> Refusal of food or water is an early warning sign.</li></ul><h3>Immediate Action Plan</h3><p>If you suspect Parvo, do not wait. This is a medical emergency. Isolate the dog from other pets immediately and transport them to a vet. Survival rates are high with early hospitalization and IV fluid therapy, but they drop significantly without professional care.</p>"
+    "content": "<h3>More Than Just Bad Breath</h3><p>Dental disease is the most common clinical condition occurring in adult dogs and cats. Plaque hardens into tartar, which pushes under the gumline, causing infection. Bacteria from this infection can enter the bloodstream and damage the heart valves, liver, and kidneys.</p><h3>Home Care Routine</h3><p>Ideally, you should brush your pet's teeth daily. Use a toothpaste specifically designed for pets (human toothpaste contains fluoride and xylitol, which are toxic).</p><ul><li>Start slow: Let them lick the toothpaste off your finger.</li><li>Progress to rubbing the gums with your finger.</li><li>Introduce a soft-bristled toothbrush or finger brush.</li></ul><h3>When to See a Vet</h3><p>If your pet has red gums, brown tartar buildup, or drops food while eating, they need a professional dental cleaning under anesthesia. Anesthesia allows the vet to clean below the gumline where the real damage occurs.</p>"
   },
   {
     "id": "chronic-kidney-disease-cats",
@@ -16,6 +25,15 @@
     "dateOfPublished": "2023-11-05",
     "category": "Cats",
     "content": "<h3>Understanding CKD in Felines</h3><p>Chronic Kidney Disease (CKD) is the persistent loss of kidney function over time. While it cannot be cured, it can be managed effectively to give your cat a high quality of life for years.</p><h3>Dietary Management</h3><p>The cornerstone of managing CKD is diet. Therapeutic renal diets are formulated with:</p><ul><li><strong>Restricted Phosphorus:</strong> High phosphorus levels can further damage the kidneys.</li><li><strong>High-Quality Protein:</strong> Lower amounts of protein, but of higher quality to reduce waste products in the blood.</li><li><strong>Omega-3 Fatty Acids:</strong> To help reduce inflammation.</li></ul><h3>The Importance of Hydration</h3><p>Kidneys need water to flush out toxins. Since cats with CKD lose the ability to concentrate urine, they need to drink more. Consider adding wet food to their diet, using a water fountain, or placing multiple water bowls around the house to encourage drinking.</p>"
+  },
+  {
+    "id": "identifying-early-signs-parvovirus",
+    "title": "Identifying Early Signs of Parvovirus",
+    "description": "Parvovirus is a highly contagious virus affecting dogs. Learn to spot the critical symptoms like lethargy and vomiting to seek immediate emergency care.",
+    "image": "https://i0.wp.com/petyaari.com/wp-content/uploads/2025/06/Canine-Parvo-virus-1024x724.jpg",
+    "dateOfPublished": "2023-10-10",
+    "category": "Dogs",
+    "content": "<h3>The Danger of Parvovirus</h3><p>Canine parvovirus (CPV) is one of the most serious viruses that can affect dogs, particularly puppies and unvaccinated adults. It attacks the gastrointestinal tract and immune system, leading to severe dehydration and potential fatality if not treated immediately.</p><h3>Critical Symptoms to Watch For</h3><ul><li><strong>Severe Vomiting:</strong> Often frothy or yellow bile.</li><li><strong>Bloody Diarrhea:</strong> This often has a very distinct, foul odor.</li><li><strong>Lethargy:</strong> Your dog may refuse to play, eat, or even stand up.</li><li><strong>Loss of Appetite:</strong> Refusal of food or water is an early warning sign.</li></ul><h3>Immediate Action Plan</h3><p>If you suspect Parvo, do not wait. This is a medical emergency. Isolate the dog from other pets immediately and transport them to a vet. Survival rates are high with early hospitalization and IV fluid therapy, but they drop significantly without professional care.</p>"
   },
   {
     "id": "biosecurity-backyard-poultry",
@@ -34,23 +52,5 @@
     "dateOfPublished": "2023-08-15",
     "category": "General Health",
     "content": "<h3>The Hidden Dangers of Ticks</h3><p>While Lyme Disease is the most well-known tick-borne illness, ticks are vectors for a soup of pathogens including Anaplasmosis, Babesiosis, and Rocky Mountain Spotted Fever. These diseases can cause joint pain, kidney failure, and severe anemia.</p><h3>Prevention Strategies</h3><p>Prevention is always cheaper and safer than treatment. There are three main categories of preventatives:</p><ul><li><strong>Topical Spot-Ons:</strong> Applied to the back of the neck monthly. Great for repelling ticks before they bite.</li><li><strong>Oral Chews:</strong> pills given monthly or every 3 months. These kill the tick after it bites but before it can transmit disease.</li><li><strong>Collars:</strong> High-quality collars (like Seresto) release low doses of active ingredients over 8 months.</li></ul><p><strong>Note:</strong> Never use a dog product on a cat. Permethrin, common in dog tick products, is highly toxic to cats.</p>"
-  },
-  {
-    "id": "laying-hens-nutrition",
-    "title": "Nutritional Requirements for Laying Hens",
-    "description": "Egg production requires high calcium and protein levels. Here is a guide to formulating the perfect feed mix for maximum egg yield.",
-    "image": "https://www.stockfeed.co.nz/wp-content/uploads/2023/02/9-scaled.jpg",
-    "dateOfPublished": "2023-12-01",
-    "category": "Poultry",
-    "content": "<h3>Fueling the Egg Factory</h3><p>A laying hen puts a tremendous amount of energy into producing an egg. An egg is rich in protein and packed in a calcium shell. If her diet is lacking, she will stop laying or, worse, her body will pull calcium from her own bones.</p><h3>Key Nutrients</h3><ul><li><strong>Calcium (3.5 - 4.5%):</strong> Essential for shell strength. Provide crushed oyster shells as a free-choice supplement alongside their feed.</li><li><strong>Protein (16 - 18%):</strong> Necessary for the egg white and general health. Use a dedicated 'Layer Feed' pellet or crumble.</li><li><strong>Fresh Water:</strong> A hen's body is over 50% water, and an egg is largely water. A lack of water for just a few hours can stop egg production for days.</li></ul><h3>Treats in Moderation</h3><p>Kitchen scraps and scratch grains are fun, but they dilute the nutrition of the main feed. Treats should make up no more than 10% of their daily intake.</p>"
-  },
-  {
-    "id": "dental-hygiene-pets",
-    "title": "Dental Hygiene: The Silent Killer in Pets",
-    "description": "Periodontal disease can lead to heart and liver issues. Learn how to brush your pet's teeth and when to schedule a professional cleaning.",
-    "image": "https://i0.wp.com/farm9.staticflickr.com/8427/7863750906_5420b9e4c3.jpg",
-    "dateOfPublished": "2023-11-20",
-    "category": "Dogs",
-    "content": "<h3>More Than Just Bad Breath</h3><p>Dental disease is the most common clinical condition occurring in adult dogs and cats. Plaque hardens into tartar, which pushes under the gumline, causing infection. Bacteria from this infection can enter the bloodstream and damage the heart valves, liver, and kidneys.</p><h3>Home Care Routine</h3><p>Ideally, you should brush your pet's teeth daily. Use a toothpaste specifically designed for pets (human toothpaste contains fluoride and xylitol, which are toxic).</p><ul><li>Start slow: Let them lick the toothpaste off your finger.</li><li>Progress to rubbing the gums with your finger.</li><li>Introduce a soft-bristled toothbrush or finger brush.</li></ul><h3>When to See a Vet</h3><p>If your pet has red gums, brown tartar buildup, or drops food while eating, they need a professional dental cleaning under anesthesia. Anesthesia allows the vet to clean below the gumline where the real damage occurs.</p>"
   }
 ]
